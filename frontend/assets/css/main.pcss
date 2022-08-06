@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply font-nunito;
+  @apply text-white bg-gradient-to-br from-indigo-500 via-purple-500 to-pink-400;
+  @apply select-none;
+}
+
+* {
+  @apply border-white;
+}
+
+::selection {
+  @apply bg-purple-400;
+}
+
+.btn {
+  @apply p-4 w-full border rounded-2xl;
+  @apply transition duration-200;
+  @apply hover:bg-purple-400/80;
+}
+
+.btn:disabled {
+  @apply opacity-70;
+  @apply hover:bg-transparent;
+}
+
+.inp {
+  @apply outline-none;
+  @apply p-3 w-full border rounded-2xl;
+  @apply text-2xl text-black font-bold text-center;
+  @apply transition duration-200;
+  @apply hover:bg-white/80;
+}
+
+.main-container {
+  @apply py-4 flex flex-col space-y-4;
+}
+
+.error-msg {
+  @apply absolute top-0 right-2;
+  @apply text-red-400;
+}
+
+input::-ms-reveal,
+input::-ms-clear {
+  @apply hidden;
+}

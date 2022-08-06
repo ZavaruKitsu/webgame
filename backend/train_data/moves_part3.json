@@ -1,0 +1,218 @@
+[
+  {
+    "ore_request_amount": 2,
+    "ore_request_price": 500,
+    "airships_amount": 2,
+    "sell_request_amount": 2,
+    "sell_request_price": 5500,
+    "build_workshop": false,
+    "user": {
+      "user": {
+        "id": "5a5b0bb1-d385-48da-8b74-5a8ae6941685",
+        "name": "AlexeyTest5",
+        "avatar": "https://avatarfiles.alphacoders.com/284/284414.png"
+      },
+      "money": 10000,
+      "workshops": 2,
+      "ore": 4,
+      "airships": 2,
+      "dead": false
+    },
+    "market_state": {
+      "level": 3,
+      "total_ore": 6,
+      "airships_demand": 6,
+      "minimal_price": 500,
+      "maximal_price": 5500
+    }
+  },
+  {
+    "ore_request_amount": 2,
+    "ore_request_price": 500,
+    "airships_amount": 2,
+    "sell_request_amount": 2,
+    "sell_request_price": 5500,
+    "build_workshop": false,
+    "user": {
+      "user": {
+        "id": "1ac9df57-f1eb-4fec-8a14-6e8b8b77e9d4",
+        "name": "AlexeyTest227",
+        "avatar": ""
+      },
+      "money": 10000,
+      "workshops": 2,
+      "ore": 4,
+      "airships": 2,
+      "dead": false
+    },
+    "market_state": {
+      "level": 3,
+      "total_ore": 6,
+      "airships_demand": 6,
+      "minimal_price": 500,
+      "maximal_price": 5500
+    }
+  },
+  {
+    "ore_request_amount": 0,
+    "ore_request_price": 0,
+    "airships_amount": 2,
+    "sell_request_amount": 2,
+    "sell_request_price": 6000,
+    "build_workshop": false,
+    "user": {
+      "user": {
+        "id": "5a5b0bb1-d385-48da-8b74-5a8ae6941685",
+        "name": "AlexeyTest5",
+        "avatar": "https://avatarfiles.alphacoders.com/284/284414.png"
+      },
+      "money": 12800,
+      "workshops": 2,
+      "ore": 4,
+      "airships": 2,
+      "dead": false
+    },
+    "market_state": {
+      "level": 2,
+      "total_ore": 4,
+      "airships_demand": 7,
+      "minimal_price": 650,
+      "maximal_price": 6000
+    }
+  },
+  {
+    "ore_request_amount": 0,
+    "ore_request_price": 0,
+    "airships_amount": 2,
+    "sell_request_amount": 2,
+    "sell_request_price": 6000,
+    "build_workshop": false,
+    "user": {
+      "user": {
+        "id": "1ac9df57-f1eb-4fec-8a14-6e8b8b77e9d4",
+        "name": "AlexeyTest227",
+        "avatar": ""
+      },
+      "money": 12800,
+      "workshops": 2,
+      "ore": 4,
+      "airships": 2,
+      "dead": false
+    },
+    "market_state": {
+      "level": 2,
+      "total_ore": 4,
+      "airships_demand": 7,
+      "minimal_price": 650,
+      "maximal_price": 6000
+    }
+  },
+  {
+    "ore_request_amount": 0,
+    "ore_request_price": 0,
+    "airships_amount": 2,
+    "sell_request_amount": 2,
+    "sell_request_price": 6000,
+    "build_workshop": false,
+    "user": {
+      "user": {
+        "id": "5a5b0bb1-d385-48da-8b74-5a8ae6941685",
+        "name": "AlexeyTest5",
+        "avatar": "https://avatarfiles.alphacoders.com/284/284414.png"
+      },
+      "money": 18200,
+      "workshops": 2,
+      "ore": 2,
+      "airships": 2,
+      "dead": false
+    },
+    "market_state": {
+      "level": 2,
+      "total_ore": 4,
+      "airships_demand": 7,
+      "minimal_price": 650,
+      "maximal_price": 6000
+    }
+  },
+  {
+    "ore_request_amount": 0,
+    "ore_request_price": 0,
+    "airships_amount": 2,
+    "sell_request_amount": 2,
+    "sell_request_price": 6000,
+    "build_workshop": false,
+    "user": {
+      "user": {
+        "id": "1ac9df57-f1eb-4fec-8a14-6e8b8b77e9d4",
+        "name": "AlexeyTest227",
+        "avatar": ""
+      },
+      "money": 18200,
+      "workshops": 2,
+      "ore": 2,
+      "airships": 2,
+      "dead": false
+    },
+    "market_state": {
+      "level": 2,
+      "total_ore": 4,
+      "airships_demand": 7,
+      "minimal_price": 650,
+      "maximal_price": 6000
+    }
+  },
+  {
+    "ore_request_amount": 0,
+    "ore_request_price": 0,
+    "airships_amount": 0,
+    "sell_request_amount": 2,
+    "sell_request_price": 6500,
+    "build_workshop": false,
+    "user": {
+      "user": {
+        "id": "5a5b0bb1-d385-48da-8b74-5a8ae6941685",
+        "name": "AlexeyTest5",
+        "avatar": "https://avatarfiles.alphacoders.com/284/284414.png"
+      },
+      "money": 24200,
+      "workshops": 2,
+      "ore": 0,
+      "airships": 2,
+      "dead": false
+    },
+    "market_state": {
+      "level": 1,
+      "total_ore": 3,
+      "airships_demand": 9,
+      "minimal_price": 800,
+      "maximal_price": 6500
+    }
+  },
+  {
+    "ore_request_amount": 0,
+    "ore_request_price": 0,
+    "airships_amount": 0,
+    "sell_request_amount": 2,
+    "sell_request_price": 6500,
+    "build_workshop": false,
+    "user": {
+      "user": {
+        "id": "1ac9df57-f1eb-4fec-8a14-6e8b8b77e9d4",
+        "name": "AlexeyTest227",
+        "avatar": ""
+      },
+      "money": 24200,
+      "workshops": 2,
+      "ore": 0,
+      "airships": 2,
+      "dead": false
+    },
+    "market_state": {
+      "level": 1,
+      "total_ore": 3,
+      "airships_demand": 9,
+      "minimal_price": 800,
+      "maximal_price": 6500
+    }
+  }
+]
