@@ -144,8 +144,8 @@ export class KbClient {
 
   constructor (token: string, userId: string) {
     this.token = token ?? ''
-    // this.socket = io('http://localhost:3001/', { query: { jwt: token } })
-    this.socket = io('https://kb.radolyn.com/', { query: { jwt: token }, path: '/api/socket.io/' })
+    this.socket = io('http://localhost:3001/', { query: { jwt: token } })
+    // this.socket = io('https://kb.radolyn.com/', { query: { jwt: token }, path: '/api/socket.io/' })
 
     this.lobby_manager = new LobbyManager(this.socket)
     this.game_manager = new GameManager(this.socket, userId)
