@@ -59,6 +59,10 @@ Backend by itself, contains train data for AI and game essentials.
 
 Frontend written on Nuxt.TS 2.
 
+> [Colab](https://datalore.jetbrains.com/view/notebook/ZFFpCJnDga9pra3ElXTCyG)
+
+Colab for AI model training.
+
 ## Credits
 
 - Icons8 for all `*.svg` files
